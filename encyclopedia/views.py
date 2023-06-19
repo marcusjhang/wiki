@@ -30,7 +30,7 @@ def entry(request, title):
 
 def search(request): #request with "POST" method is passed in here, default method for a request is "GET", POST = submit data 
     if request.method == "POST":
-        entry_search = request.POST.get('q')
+        entry_search = request.POST['q']
         html_content = convert_md_to_html(entry_search)
         if html_content is not None:
             return render(request, 'encyclopedia/entry.html', {
@@ -43,6 +43,6 @@ def search(request): #request with "POST" method is passed in here, default meth
             for entry in all_entries:
                 if entry_search.lower() in entry.lower():
                     recommendation.append(entry)
-            return render(request, "search.html", {
+            return render(request, "encyclopedia/search.html", {
                 "recommendation": recommendation
             })

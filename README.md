@@ -1,6 +1,5 @@
 # wiki
 
-## Functions
 - Entering a page and editting its content
 
 ![ezgif-3-4c1d28ee4b](https://github.com/marcusjhang/wiki/assets/102737980/acd89405-187c-4175-a9b0-99ee9cb97f79)

@@ -8,7 +8,7 @@ Tech Stack: Python, Django, HTML, Bootstrap
 
 2) Creating a new page
 
-![Alt Text](https://drive.google.com/file/d/14Glv92NwmJv_SvTZKncQw4bn_SQhulnv/view?usp=share_link)
+<iframe src="https://giphy.com/embed/HUVnwmn2LneuynJ7Na" width="480" height="248" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HUVnwmn2LneuynJ7Na">via GIPHY</a></p>
 
 3) Searching for a page
 

@@ -1,7 +1,7 @@
 # wiki
 
-## TechSTack 
-**Python**, **Django**, **HTML**, **Bootstrap**
+
+**Tech Stack**: **Python**, **Django**, **HTML**, **Bootstrap**
 
 ## Functions
 - Entering a page and editting its content

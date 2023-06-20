@@ -16,7 +16,7 @@ Tech Stack: Python, Django, HTML, Bootstrap
 
 4) Clicking Random Page
 
-![Alt Text](https://drive.google.com/file/d/1n4XeJhAQnw4FQK40MvfS7UOBTm3sYtcf/view?usp=sharing)
+[![Alt Text][(https://drive.google.com/file/d/1n4XeJhAQnw4FQK40MvfS7UOBTm3sYtcf/view?usp=sharing](https://drive.google.com/file/d/1n4XeJhAQnw4FQK40MvfS7UOBTm3sYtcf/view?usp=share_link))](https://drive.google.com/file/d/1n4XeJhAQnw4FQK40MvfS7UOBTm3sYtcf/view?usp=share_link)https://drive.google.com/file/d/1n4XeJhAQnw4FQK40MvfS7UOBTm3sYtcf/view?usp=share_link
 
 
 

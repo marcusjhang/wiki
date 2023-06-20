@@ -1,6 +1,6 @@
 # wiki
 
-Tech Stack: Python, Django, HTML, Bootstrap
+Tech Stack: **Python**, **Django**, **HTML**, **Bootstrap**
 
 Entering a page and editting its content
 

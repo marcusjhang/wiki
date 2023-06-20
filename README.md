@@ -4,7 +4,7 @@ Tech Stack: Python, Django, HTML, Bootstrap
 
 1) Entering a page and editting its content
 
-![Alt Text](https://drive.google.com/file/d/1lAFPtYdU0BHUbfTE5bYGFC4afNE9x29f/view?usp=share_link)
+![ezgif-3-4c1d28ee4b](https://github.com/marcusjhang/wiki/assets/102737980/acd89405-187c-4175-a9b0-99ee9cb97f79)
 
 2) Creating a new page
 

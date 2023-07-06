@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 code {
@@ -10,6 +11,7 @@ code {
 h1 {
     margin-top: 0px;
     padding-top: 20px;
+    font-weight: bold;
 }
 
 textarea {

@@ -11,10 +11,10 @@
     <body>
         <div class="row">
             <div class="sidebar col-lg-2 col-md-3">
-                <h2>Wiki</h2>
+                <h2 class="font-weight-bold">Wiki</h2>
                 <form action="{% url 'search' %}" method="POST"> <!-- For "POST" method,the form data is submitted to the server via the request body, rather than in the URL. For "GET", the form data is appedned to the URL -->
                     {% csrf_token %}
-                    <input class="search" type="text" name="q" placeholder="Search Encyclopedia"> <!-- URL with name search is generated. A request containing the forms details is sent to the views.search function through the url -->
+                    <input class="search my-3" type="text" name="q" placeholder="Search Encyclopedia"> <!-- URL with name search is generated. A request containing the forms details is sent to the views.search function through the url -->
                 </form>
                 <div>
                     <a href="{% url 'index' %}">Home</a>
